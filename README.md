@@ -1,7 +1,7 @@
 
 # World Happiness Report Analysis
 
-Analysis of the World Happiness Report dataset using Python. Explores correlations between happiness scores and factors including GDP, social support, life expectancy, and corruption across countries and regions.
+Analysis of the World Happiness Report dataset using Python. Explores correlations between happiness scores and factors including GDP, social support, life expectancy, and corruption across countries and regions. 
 
 ## What's in this project
 - Scatter plots examining individual factors vs happiness scores
